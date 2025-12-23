@@ -1,0 +1,4 @@
+PM-style takeaway (Base curve):
+- Best risk-adjusted carry + roll-down over 3M horizon: 2Y (Front End).
+- Absolute carry increases with maturity, but DV01 rises faster, so carry efficiency declines out the curve.
+- Front End = risk-efficient carry; Belly = RV curve positioning; Long End = duration/macro expression.
