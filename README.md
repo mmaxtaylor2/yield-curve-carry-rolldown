@@ -54,6 +54,8 @@ Primary outputs include:
 - Scenario-based performance summaries
 - A consolidated portfolio-manager dashboard
 
+Each output file corresponds to a specific analytical cut (by tenor, horizon, or scenario) and is intentionally saved as a standalone artifact. This mirrors how portfolio managers and rates analysts review fixed-income analytics through discrete tables and charts rather than a single monolithic output.
+
 ## Project Structure
 
 The repository is organized as a fixed-income analytics pipeline rather than a packaged application.
